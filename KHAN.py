@@ -7,5 +7,5 @@ os.system('git pull')
 import requests
 os.system('git pull')
 os.system('clear')
-os.system('rm -rf KHAN.cpython-310.so')
-os.system('clear')
+from KHAN import unknown
+unknown ()
